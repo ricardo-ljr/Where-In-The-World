@@ -14,7 +14,7 @@ const Header = () => {
   return (
     <header>
       <div className="container">
-        <Link to="/Where-In-The-World">
+        <Link to="/">
           <h1>Where in the world</h1>
         </Link>
         <button
