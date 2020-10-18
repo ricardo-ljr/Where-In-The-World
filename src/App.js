@@ -7,7 +7,7 @@ import Details from "./Pages/Details";
 const App = () => (
   <Router>
     <Switch>
-      <Route exact path="/" component={Home} />
+      <Route exact path="/Where-In-The-World" component={Home} />
       <Route exact path="/details" component={Details} />
     </Switch>
   </Router>
